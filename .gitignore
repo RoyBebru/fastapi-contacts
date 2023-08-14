@@ -1,0 +1,7 @@
+.venv*/
+.venv*
+=todo/
+build/
+egg-info/
+__pycache__/
+*.pyc
