@@ -1,5 +1,6 @@
 .venv*/
 .venv*
+.env
 =todo/
 build/
 egg-info/
